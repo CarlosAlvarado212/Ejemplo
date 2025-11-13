@@ -1,0 +1,57 @@
+.menu
+{
+    width:100%;
+    background:#5c0eec;
+    color:white;
+    list-style: none; 
+    margin:0;
+    padding:0;
+}
+.menu li
+{
+    display:inline-block;
+}
+
+.menu li a
+{
+    padding: 10px 20px;
+    display:inline-block;
+    color:#fff;
+}
+
+.menu li a:hover
+{
+    background:#9f33f8;
+}
+
+article 
+{
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 20px 0;
+    background-color: #e9e9e9;
+}
+
+article h3 
+{
+    color: #5c0eec;
+    border-bottom: 2px solid #5c0eec;
+    padding-bottom: 5px;
+    margin-top: 0;
+}
+
+table 
+{
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table img 
+{
+    display: block;
+}
+
+table td 
+{
+    padding: 5px;
+}
